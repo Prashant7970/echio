@@ -403,12 +403,4 @@ if(Object.keys(map).length===0){
   );
 }
 
-export async function getServerSideProps() {
-  // Fetch data from external API
-  const res = await axios(`/product/getall`);
-  const d = await res.data;
-  const data = d.products;
 
-  // Pass data to the page via props
-  return { props: { data } };
-}
