@@ -148,6 +148,56 @@ export const data=[
         popularity:"micro"
 
       
+    }, {
+        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be85.jpg",
+        title: "Beeone Lemon Facial Gel",
+        date: "2009",
+        id: "BBJ003250",
+        strikedOffPrice: "₹389",
+        price: 389,
+        discount: "12 % OFF",
+        rate: 3,
+        brand: "Vaadi Herbals",
+        preferance:"paid",
+        media:"youtube",
+        category:"agriculture",
+        popularity:"custom"
+
+       
+    },
+    {
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmS7BVgDxMAzUZ6YFEo3lN0nR9hOU7UuxI1g&usqp=CAU",
+        title: "Super bike",
+        date: "2019",
+        id: "BBJ003250",
+        strikedOffPrice: "₹48900",
+        price: 489000,
+        discount: "12 % OFF",
+        rate: 4,
+        brand: "Vaadi Herbals",
+        preferance:"paid",
+        media:"instagram",
+        category:"travel",
+        popularity:"macro"
+
+      
+    },
+    {
+        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/s/1/s1_1.jpg",
+        title: "Shahnaz Husain Gold 2-In-1 Anti Ageing Gel",
+        date: "2002",
+        id: "BBJ003250",
+        strikedOffPrice: "₹1489",
+        price: 1489,
+        discount: "12 % OFF",
+        rate: 3,
+        brand: "Vaadi Herbals",
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"micro"
+
+      
     },
 
 ]
