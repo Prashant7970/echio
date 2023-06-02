@@ -6,7 +6,7 @@ First, run the development server:
 <br/>
 npm run dev
 
-```
+
 
 You can start testing filter and sorting methods working or not..
 I just hard code the data in js file and then use higher order functions to perform sorting and filtering methods.
