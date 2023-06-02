@@ -11,7 +11,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 1,
         brand: "Vaadi Herbals",
-
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"micro"
        
     },
     {
@@ -24,7 +27,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 2,
         brand: "Vaadi Herbals",
-
+        preferance:"paid",
+        media:"instagram",
+        category:"beauty",
+        popularity:"micro"
        
     },
     {
@@ -37,7 +43,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 3,
         brand: "Vaadi Herbals",
-
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"nano"
        
     },
     {
@@ -50,7 +59,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 4,
         brand: "Vaadi Herbals",
-
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"macro"
       
     },
     {
@@ -63,6 +75,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 5,
         brand: "Vaadi Herbals",
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"nano"
 
     },
     {
@@ -75,6 +91,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 2,
         brand: "Vaadi Herbals",
+        preferance:"paid",
+        media:"youtube",
+        category:"agriculture",
+        popularity:"micro"
 
       
     },
@@ -88,6 +108,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 3,
         brand: "Vaadi Herbals",
+        preferance:"paid",
+        media:"youtube",
+        category:"agriculture",
+        popularity:"custom"
 
        
     },
@@ -101,6 +125,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 4,
         brand: "Vaadi Herbals",
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"micro"
 
       
     },
@@ -114,6 +142,10 @@ export const data=[
         discount: "12 % OFF",
         rate: 3,
         brand: "Vaadi Herbals",
+        preferance:"barter",
+        media:"instagram",
+        category:"beauty",
+        popularity:"micro"
 
       
     },

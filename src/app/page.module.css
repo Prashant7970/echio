@@ -29,19 +29,19 @@
 }
 
 .dashboard{
-  border: 1px solid red;
+  /* border: 1px solid red; */
   display: flex;
   gap:10px;
   padding: 5px;
 
 }
 .dashboard>div{
-  border: 1px solid green;
+
   height: 600px;
 }
 .filtering{
   flex:2;
-
+  box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px;
   padding: 5px;
 }
 .filtering>div{
@@ -114,15 +114,31 @@
   gap: 10px;
   padding: 5px;
   width: fit-content;
+  margin: 10px 0px;
+  box-shadow: rgba(0, 0, 0, 0.1) 0px 4px 12px;
+}
+.cards:hover{
+  box-shadow: rgba(0, 0, 0, 0.25) 0px 54px 55px, rgba(0, 0, 0, 0.12) 0px -12px 30px, rgba(0, 0, 0, 0.12) 0px 4px 6px, rgba(0, 0, 0, 0.17) 0px 12px 13px, rgba(0, 0, 0, 0.09) 0px -3px 5px;
 }
 .cards>div{
   display: flex;
   justify-content: space-between;
   gap: 20px;
+ 
 
 }
 .cards>div>img{
   width: 200px;
+}
+.cards>div:nth-child(2)>div:nth-child(1)>button{
+padding: 5px 8px;
+color:rgb(30, 227, 37);
+background-color: #485dd3;
+border-radius: 10px;
+border: none;
+font-weight: 600;
+
+
 }
 .acceptbtn>button:nth-child(1){
   background-color: green;
@@ -154,14 +170,37 @@
   border-radius: 6px;
   margin: 2px;
   font-weight: bold;
+  cursor: pointer;
+  transition: background-color 0.3s ease;
 }
-
+.cardbtnright>button:hover{
+  background-color: #ccc;
+}
+.rightsection button:hover{
+  cursor: pointer;
+  background-color: #ccc;
+}
 @media  screen and (min-width:320px) and (max-width:720px) {
   .cards>div>img{
     width: 100px;
   }
   .cards{
     font-size: 10px;
+  }
+  .cards{
+   
+    flex-direction: column;
+  
+   
+  }
+  .cards>div{
+   
+    flex-direction: column;
+    
+  
+  }
+  .cardbtnright>button{
+    width: 48%;
   }
   
 }
