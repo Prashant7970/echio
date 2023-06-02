@@ -15,5 +15,6 @@ I just hard code the data in js file and then use higher order functions to perf
 
 
 
+
 You can watch the screenshot here..
-<img src="https://github.com/Prashant7970/echio/assets/95179001/10ef4f9d-61f5-48f2-b181-6f2e4771ac48" alt="screenshot" />
+<img src="https://github.com/Prashant7970/echio/assets/95179001/7e9f3e33-e641-443c-a786-bbbd5a69ddbd" alt="screenshot" />
