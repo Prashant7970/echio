@@ -66,19 +66,19 @@ export const data=[
       
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/b/e/be106.jpg",
-        title: "Beeone Papaya Scrub",
-        date: "2007",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSWlwl7emUgiLCvtb4kd_lFYpYQXiIEO_BsN9AagWbcC8HimL69XGI9iSiZK3Yai1mY-5A&usqp=CAU",
+        title: "Dragon Ball Super",
+        date: "2018",
         id: "BBJ003250",
-        strikedOffPrice: "₹119",
-        price: 119,
+        strikedOffPrice: "₹11900",
+        price: 1000000,
         discount: "12 % OFF",
         rate: 5,
         brand: "Vaadi Herbals",
-        preferance:"barter",
+        preferance:"paid",
         media:"instagram",
-        category:"beauty",
-        popularity:"nano"
+        category:"anime",
+        popularity:"custom"
 
     },
     {
@@ -116,19 +116,19 @@ export const data=[
        
     },
     {
-        image: "https://www.beautybebo.com/pub/media/catalog/product/cache/37253e89591b79b38c00254331932999/l/a/la9.jpg",
-        title: "L'Oreal Paris White Perfect Scrub",
-        date: "2011",
+        image: "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTmS7BVgDxMAzUZ6YFEo3lN0nR9hOU7UuxI1g&usqp=CAU",
+        title: "Super bike",
+        date: "2019",
         id: "BBJ003250",
-        strikedOffPrice: "₹489",
-        price: 489,
+        strikedOffPrice: "₹48900",
+        price: 489000,
         discount: "12 % OFF",
         rate: 4,
         brand: "Vaadi Herbals",
-        preferance:"barter",
+        preferance:"paid",
         media:"instagram",
-        category:"beauty",
-        popularity:"micro"
+        category:"travel",
+        popularity:"macro"
 
       
     },
