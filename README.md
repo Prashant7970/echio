@@ -6,6 +6,8 @@ First, run the development server:
 <br/>
 npm run dev
 
+#Deployed link <br/>
+https://echio-nine.vercel.app/
 
 
 You can start testing filter and sorting methods working or not..
